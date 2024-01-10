@@ -1,0 +1,38 @@
+content,emotion,type,cause
+"Flying, Body of Water",Surprised,Neutral,Imagination
+"Falling, Being chased, Seeing a monster, Meeting a celebrity, Meeting a stranger, Women, Having sex, Intruders break in, Flying, End of the world, Drowning","Angry, Happy, Anxious, Scared, Surprised, Loved, Depressed",Neutral,Stimulus
+Re-experiencing & re-designing recent events,"Happy, Surprised, Loved",Positive,Memory
+"Falling, Being chased, Women, Being lost, Being trapped","Happy, Anxious, Shocked, Confused, Surprised",Neutral,Stimulus
+"Falling, Being chased, Missing bus/plane, Important discovery, Show in movies, Being trapped, Flying, End of the world, Drowning","Anxious, Confused, Scared",Negative,Memory
+"Meeting a celebrity, Men, Women, Being lost","Happy, Confused",Neutral,Imagination
+"Falling, Being chased, Mortality, Flying","Shocked, Surprised",Neutral,Stimulus
+"Being chased, Men, Women, Having sex, Being lost, Intruders break in, Important discovery, End of the world","Angry, Anxious, Confused, Surprised",Neutral,Imagination
+"Being chased, Intruders break in",Anxious,Neutral,Stimulus
+"Vehicle out-of-control, Meeting a stranger, Men, Women, End of the world",Surprised,Neutral,Memory
+"Falling, Being chased, Meeting a stranger","Happy, Anxious, Confused, Loved",Neutral,Imagination
+"Mortality, Being trapped",Confused,Neutral,Memory
+"Meeting a celebrity, Important discovery, Body of Water","Surprised, Content",Neutral,Imagination
+"Falling, Restroom, Women, Being lost, Missing bus/plane","Angry, Happy, Anxious, Confused, Surprised, Loved, Lost",Neutral,Stimulus
+"Meeting a stranger, Men, Women, Having sex, Mortality","Angry, Happy, Anxious, Shocked, Confused, Scared, Sad, Surprised, Loved, Depressed",Neutral,Stimulus
+"Falling, Meeting a stranger, Restroom, Show in movies","Anxious, Confused, Sad, Depressed",Neutral,Memory
+"Falling, Being chased, Meeting a celebrity, Restroom, Men, Women, Being lost, Show in movies, Being trapped, Flying, Drowning","Anxious, Scared, Sad, Depressed",Negative,Memory
+"Falling, Being chased, Seeing a monster, Vehicle out-of-control, Meeting a stranger, Intruders break in, Being trapped, Body of Water",Tired,Negative,Stimulus
+going to school,normal,Neutral,Memory
+"Falling, Being chased, Meeting a stranger","Scared, Sad",Negative,Stimulus
+"Being chased, Meeting a stranger, Intruders break in, Being trapped, Flying","Anxious, Confused",Neutral,Stimulus
+"Seeing a monster, Being trapped, Flying, End of the world, teeth falling out!","Happy, Confused, Scared",Neutral,Imagination
+"Being chased, Meeting a celebrity, Meeting a stranger, Men, Women, Being lost, Being trapped","Anxious, Loved",Neutral,Memory
+"Falling, Being chased, Having sex","Anxious, Confused, Scared",Negative,Stimulus
+"Meeting a celebrity, Meeting a stranger, Men, Having sex, Babies, End of the world, Family ","Angry, Happy, Anxious, Scared, Sad, Loved",Neutral,Imagination
+"Falling, Being chased, Seeing a monster, Meeting a celebrity, Meeting a stranger, Restroom, Men, Women, Having sex, Mortality, Being lost, Missing bus/plane, Intruders break in, Important discovery, Being trapped, Flying, End of the world, Drowning, Body of Water","Angry, Happy, Anxious, Shocked, Confused, Scared, Sad, Surprised, Loved, Depressed",Negative,Stimulus
+"Falling, Being chased, Vehicle out-of-control, Meeting a stranger, Women, Being lost, Missing bus/plane, Being trapped, Flying, End of the world","Angry, Anxious, Scared, Sad",Negative,Imagination
+"Men, Having sex","Happy, Anxious, Shocked, Confused, Surprised, Loved",Positive,Stimulus
+"Being lost, Missing bus/plane, End of the world","Anxious, Scared, Sad",Positive,Memory
+Seeing friends lose hair due to chemotheraphy,"Shocked, Scared",Negative,Imagination
+Meeting a celebrity,"Happy, Surprised, Loved",Positive,Imagination
+I lost a ear,"Anxious, Shocked, Scared",Negative,Imagination
+"Falling, Women, Flying","Happy, Confused, Surprised",Neutral,Memory
+"Vehicle out-of-control, Being lost","Anxious, Scared",Negative,Imagination
+"Women, someone was licking me and asked me if I was doing drugs","Anxious, Scared",Neutral,Stimulus
+"Men, Important discovery, End of the world, Body of Water","Happy, Anxious, Loved",Positive,Imagination
+"Being chased, Important discovery","Confused, Sad",Neutral,Imagination
